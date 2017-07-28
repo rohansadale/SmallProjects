@@ -1,4 +1,4 @@
-###Usage
+### Difference between files
 
 ```
 usage: diff.py [-h] [-f1 FOLDER1] [-f2 FOLDER2] [-l LOG]
